@@ -1,1 +1,0 @@
-mapper.exe spoofer.sys
